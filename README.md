@@ -1,6 +1,6 @@
 # Beta Sender Lite
 
-Beta Sender Lite by Beta Sender.
+Beta Sender Lite by ABC Marketing.
 
 ## Installation
 
